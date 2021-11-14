@@ -1,0 +1,669 @@
+Class,Section,Term,Size,GPA,A%,B%,C%,D%,F%,W%,Teacher
+CS 7642,O03,Fall 2017,Very Large (>50 students),3.39,42.2,15.2,4.3,3.8,1.4,33.2,Charles Isbell
+CS 7642,O03,Fall 2018,Very Large (>50 students),3.44,42.5,19.1,1.4,1.7,2.8,32.6,Charles Isbell
+CS 7642,O03,Fall 2019,Very Large (>50 students),3.47,43.2,22.2,2.5,0.4,2.2,29.2,Charles Isbell
+CS 7642,O03,Fall 2020,Very Large (>50 students),3.55,44.3,19.6,2.2,0.9,1.1,32,Charles Isbell
+CS 7642,O03,Spring 2018,Very Large (>50 students),3.43,46.9,17.5,3,4,1.6,27.1,Charles Isbell
+CS 7642,O03,Spring 2019,Very Large (>50 students),3.48,46.8,25.1,3.2,0.8,1.6,22.5,Charles Isbell
+CS 7642,O03,Spring 2020,Very Large (>50 students),3.58,45,23.3,1.9,0,0.6,29.3,Charles Isbell
+CS 7642,OAN,Spring 2020,Large (31-49 students),3.7,50,21,0,0,0,29,Charles Isbell
+CS 7642,O01,Spring 2021,Very Large (>50 students),3.49,42.3,26,1.7,1.4,0.9,25.7,Charles Isbell
+CS 7642,OAN,Spring 2021,Very Large (>50 students),3.38,43.5,31.9,1.4,1.4,2.9,17.4,Charles Isbell
+CS 7642,R,Spring 2021,Very Small (<10 students),3.5,50,50,0,0,0,0,Charles Isbell
+CS 7642,O03,Summer 2017,Very Large (>50 students),3.63,54.8,23.3,2.5,0.7,0,18.6,Charles Isbell
+CS 7642,O03,Summer 2018,Very Large (>50 students),3.49,50.2,22.6,2.4,1.8,1.8,21.4,Charles Isbell
+CS 7642,O03,Summer 2019,Very Large (>50 students),3.53,47.3,25.5,2.7,0.3,1.1,22.6,Charles Isbell
+CS 7642,O03,Summer 2020,Very Large (>50 students),3.55,47,24.8,2.1,0.7,0.7,24.6,Charles Isbell
+CS 7641,O01,Fall 2014,Very Large (>50 students),3.29,33.7,19.3,1.6,4.8,1.6,39,Charles Isbell
+CS 7641,O01,Fall 2015,Very Large (>50 students),3.54,39.8,13.1,1.4,1.7,1.4,42.6,Charles Isbell
+CS 7641,O01,Fall 2016,Very Large (>50 students),3.52,38.2,15.3,4.3,0.5,0.8,41,Charles Isbell
+CS 7641,O3,Fall 2016,Very Small (<10 students),4,100,0,0,0,0,0,Charles Isbell
+CS 7641,O01,Fall 2017,Very Large (>50 students),3.54,37.8,17.7,2.2,0.3,1,40.9,Charles Isbell
+CS 7641,O3,Fall 2017,Very Small (<10 students),3.5,50,50,0,0,0,0,Charles Isbell
+CS 7641,OAN,Fall 2017,Small (10-20 students),4,41.7,0,0,0,0,58.3,Charles Isbell
+CS 7641,O01,Fall 2018,Very Large (>50 students),3.48,35.6,26.8,1.1,0.5,0.8,35.2,Charles Isbell
+CS 7641,O3,Fall 2018,Small (10-20 students),3.82,64.3,14.3,0,0,0,21.4,Charles Isbell
+CS 7641,OAN,Fall 2018,Very Large (>50 students),3.53,41.8,23.5,3.1,1,0,30.6,Charles Isbell
+CS 7641,O01,Fall 2019,Very Large (>50 students),3.39,30.4,23,4.7,0.5,0.5,40.5,Charles Isbell
+CS 7641,O3,Fall 2019,Small (10-20 students),3.85,73.3,13.3,0,0,0,13.3,Charles Isbell
+CS 7641,O01,Fall 2020,Very Large (>50 students),3.39,32.2,25.8,3.4,1.1,0.6,37,Charles Isbell
+CS 7641,O3,Fall 2020,Small (10-20 students),4,58.3,0,0,0,0,41.7,Charles Isbell
+CS 7641,R,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Charles Isbell
+CS 7641,R2,Fall 2020,Very Small (<10 students),3,0,100,0,0,0,0,Charles Isbell
+CS 7641,A,Spring 2011,Large (31-49 students),3.71,64.1,20.5,2.6,0,0,7.7,Charles Isbell
+CS 7641,O01,Spring 2014,Very Large (>50 students),3.53,37.9,16.3,1.3,2,0.6,41.8,Charles Isbell
+CS 7641,O01,Spring 2015,Very Large (>50 students),3.56,40.8,12.5,3,2,0.3,41.4,Charles Isbell
+CS 7641,O01,Spring 2016,Very Large (>50 students),3.53,41.1,15.1,4.2,1.1,0.6,38,Charles Isbell
+CS 7641,O3,Spring 2016,Very Small (<10 students),3.56,77.8,11.1,0,11.1,0,0,Charles Isbell
+CS 7641,A,Spring 2017,Very Large (>50 students),3.68,60.6,28.2,0,0,0,9.9,Charles Isbell
+CS 7641,O01,Spring 2017,Very Large (>50 students),3.56,40.3,19.8,0.8,0.4,1.3,37.4,Charles Isbell
+CS 7641,O3,Spring 2017,Very Small (<10 students),3.71,71.4,28.6,0,0,0,0,Charles Isbell
+CS 7641,A,Spring 2018,Very Large (>50 students),3.81,76.9,16.2,0.8,0,0,3.8,Charles Isbell
+CS 7641,O01,Spring 2018,Very Large (>50 students),3.58,44.1,23,0.8,0.2,1,31,Charles Isbell
+CS 7641,O3,Spring 2018,Small (10-20 students),3.57,40,30,0,0,0,30,Charles Isbell
+CS 7641,OAN,Spring 2018,Large (31-49 students),3.56,34.8,15.2,4.4,0,0,45.6,Charles Isbell
+CS 7641,A,Spring 2019,Very Large (>50 students),3.6,56.2,33.6,1.4,0,0,3.4,Charles Isbell
+CS 7641,O01,Spring 2019,Very Large (>50 students),3.47,37.5,26.6,2.6,0.3,0.8,32.2,Charles Isbell
+CS 7641,O3,Spring 2019,Small (10-20 students),3.6,60,40,0,0,0,0,Charles Isbell
+CS 7641,OAN,Spring 2019,Very Large (>50 students),3.52,50,31.4,2.9,1.4,0,14.3,Charles Isbell
+CS 7641,O01,Spring 2020,Very Large (>50 students),3.59,38.9,23.4,0.8,0.3,0.1,36.4,Charles Isbell
+CS 7641,O3,Spring 2020,Small (10-20 students),3.06,31.6,42.1,15.8,5.3,0,5.3,Charles Isbell
+CS 7641,O01,Spring 2021,Very Large (>50 students),3.35,32.3,27.5,4,1,1.1,33.7,Charles Isbell
+CS 7641,O3,Spring 2021,Very Small (<10 students),2.5,0,50,0,16.7,0,33.3,Charles Isbell
+CS 7641,A,Summer 2011,Very Small (<10 students),3,0,100,0,0,0,0,Charles Isbell
+CS 7641,QSA,Summer 2018,Large (31-49 students),3.53,67.6,23.5,5.9,0,2.9,0,Charles Isbell
+CS 6035,A,Fall 2014,Mid-Size (21-30 students),3.97,96.7,3.3,0,0,0,0,Wenke Lee
+CS 6035,Q,Fall 2014,Very Small (<10 students),4,100,0,0,0,0,0,Wenke Lee
+CS 6035,A,Fall 2015,Small (10-20 students),3.86,85.7,14.3,0,0,0,0,Wenke Lee
+CS 6035,O01,Fall 2015,Very Large (>50 students),3.52,51.4,39.6,2.4,0,0,6.5,Wenke Lee
+CS 6035,A,Fall 2016,Small (10-20 students),4,92.3,0,0,0,0,7.7,Wenke Lee
+CS 6035,O01,Fall 2016,Very Large (>50 students),3.71,69.9,9.8,3.4,0,2.1,14.8,Wenke Lee
+CS 6035,A,Fall 2017,Large (31-49 students),3.87,92.1,2.6,5.3,0,0,0,Wenke Lee
+CS 6035,O01,Fall 2017,Very Large (>50 students),3.64,63.7,16.1,2.8,1.1,1.5,14.9,Wenke Lee
+CS 6035,O01,Fall 2018,Very Large (>50 students),3.51,56.8,19.7,3,1.1,2.9,16.5,Wenke Lee
+CS 6035,O01,Fall 2019,Very Large (>50 students),3.21,34.2,31.3,6.2,1.8,2.8,22.6,Wenke Lee
+CS 6035,OCY,Fall 2019,Very Large (>50 students),3.03,32.6,23.9,6.1,3,6.1,25.4,Wenke Lee
+CS 6035,O01,Fall 2020,Very Large (>50 students),3.38,50.5,24.6,4.3,2.2,3.2,14.6,Wenke Lee
+CS 6035,OCY,Fall 2020,Very Large (>50 students),2.74,36.9,20.2,6.4,7.5,12.3,16.7,Wenke Lee
+CS 6035,O01,Spring 2016,Very Large (>50 students),3.68,68.7,19.3,1.8,2,0,8.2,Wenke Lee
+CS 6035,O01,Spring 2017,Very Large (>50 students),3.69,63.9,15.9,1.8,1.6,0.5,16.1,Wenke Lee
+CS 6035,O01,Spring 2018,Very Large (>50 students),3.52,56.8,17.5,3.1,2.1,2.3,18.1,Wenke Lee
+CS 6035,O01,Spring 2019,Very Large (>50 students),3.44,52,21.1,2.8,1.3,3.7,19.1,Wenke Lee
+CS 6035,OCY,Spring 2019,Very Large (>50 students),2.96,40.4,22.2,5.6,3,10.6,18.2,Wenke Lee
+CS 6035,O01,Spring 2020,Very Large (>50 students),3.38,39.4,26.9,4.6,0.5,1.9,26.6,Wenke Lee
+CS 6035,OCY,Spring 2020,Very Large (>50 students),3.2,29.5,23.2,8.7,0.5,2.4,35.3,Wenke Lee
+CS 6035,QSA,Spring 2020,Large (31-49 students),3.42,54.8,38.7,3.2,0,3.2,0,Wenke Lee
+CS 6035,O01,Spring 2021,Very Large (>50 students),3.29,43.3,26,3.7,3.1,3.4,19.3,Wenke Lee
+CS 6035,OCY,Spring 2021,Very Large (>50 students),3.01,35.1,21.6,7.7,2.4,7.2,25.5,Wenke Lee
+CS 6035,O01,Summer 2016,Very Large (>50 students),3.69,67.8,22.1,3.2,0,0,6.8,Wenke Lee
+CS 6035,O01,Summer 2017,Very Large (>50 students),3.61,61.6,19.4,2.4,0.3,2,14.4,Wenke Lee
+CS 6035,O01,Summer 2018,Very Large (>50 students),3.52,49.4,30.9,2.5,0.2,1,16,Wenke Lee
+CS 6035,O01,Summer 2019,Very Large (>50 students),3.36,39.3,31.9,4.1,0.9,1.8,21.9,Wenke Lee
+CS 6035,OCY,Summer 2019,Small (10-20 students),2.7,23.5,17.6,5.9,0,11.8,41.2,Wenke Lee
+CS 6035,O01,Summer 2020,Very Large (>50 students),3.49,55.6,20.8,2.6,0.8,3.6,15.6,Wenke Lee
+CS 6035,OCY,Summer 2020,Large (31-49 students),2.61,25.6,18,7.7,15.4,5.1,25.6,Wenke Lee
+CS 6210,R,Fall 2010,Very Small (<10 students),4,100,0,0,0,0,0,Ukakishore Ramachandran
+CS 6210,RKR,Fall 2010,Mid-Size (21-30 students),3.64,68.2,27.3,4.6,0,0,0,Ukakishore Ramachandran
+CS 6210,A,Fall 2011,Very Large (>50 students),3.17,30.4,41.1,12.5,1.8,0,10.7,Ukakishore Ramachandran
+CS 6210,O01,Fall 2014,Very Large (>50 students),2.89,15.7,22.9,3.9,2.6,3.9,51,Ukakishore Ramachandran
+CS 6210,A,Fall 2015,Very Large (>50 students),3.95,87.5,4.7,0,0,0,3.1,Ukakishore Ramachandran
+CS 6210,O01,Fall 2015,Very Large (>50 students),3.31,33.1,18.6,4.8,0,3.2,40.3,Ukakishore Ramachandran
+CS 6210,O3,Fall 2015,Very Small (<10 students),3.17,33.3,50,16.7,0,0,0,Ukakishore Ramachandran
+CS 6210,A,Fall 2016,Large (31-49 students),3.63,58.3,29.2,2.1,0,0,2.1,Ukakishore Ramachandran
+CS 6210,O01,Fall 2016,Very Large (>50 students),2.75,21.6,24.5,5.9,1,9.8,37.2,Ukakishore Ramachandran
+CS 6210,A,Fall 2017,Large (31-49 students),3.74,68.4,10.5,0,0,2.6,13.2,Ukakishore Ramachandran
+CS 6210,O01,Fall 2017,Very Large (>50 students),2.71,20.9,20.9,6.3,5.7,7,39.2,Ukakishore Ramachandran
+CS 6210,A,Fall 2018,Very Large (>50 students),3.89,83.3,10,0,0,0,3.3,Ukakishore Ramachandran
+CS 6210,O01,Fall 2018,Very Large (>50 students),3.31,41.2,15.5,5.9,1.6,3.7,32.1,Ukakishore Ramachandran
+CS 6210,O01,Fall 2019,Very Large (>50 students),3.45,42.1,18.2,3.2,1.2,2,33.2,Ukakishore Ramachandran
+CS 6210,OCY,Fall 2019,Very Small (<10 students),2.2,16.7,16.7,33.3,0,16.7,16.7,Ukakishore Ramachandran
+CS 6210,A,Fall 2020,Large (31-49 students),3.7,56.8,13.6,4.6,0,0,22.7,Ukakishore Ramachandran
+CS 6210,A,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Ukakishore Ramachandran
+CS 6210,O01,Fall 2020,Very Large (>50 students),3.69,59,8.8,2.3,0.5,1.8,27.6,Ukakishore Ramachandran
+CS 6210,OCY,Fall 2020,Very Small (<10 students),3.33,40,0,20,0,0,40,Ukakishore Ramachandran
+CS 6210,A,Spring 2013,Large (31-49 students),3.47,48.8,32.6,7,0,0,7,Ukakishore Ramachandran
+CS 6210,A,Spring 2014,Very Large (>50 students),3.65,70.6,20.6,4.4,1.5,0,1.5,Ukakishore Ramachandran
+CS 6210,O01,Spring 2014,Very Large (>50 students),3.71,34.3,6.7,0,1.9,0,57.1,Ukakishore Ramachandran
+CS 6210,A,Spring 2015,Very Large (>50 students),3.95,90.8,4.6,0,0,0,1.5,Ukakishore Ramachandran
+CS 6210,O01,Spring 2015,Very Large (>50 students),3.36,29.2,12.9,1.7,1.7,2.2,51.7,Ukakishore Ramachandran
+CS 6210,A,Spring 2016,Very Large (>50 students),3.89,81.1,6.8,1.4,0,0,5.4,Ukakishore Ramachandran
+CS 6210,O01,Spring 2016,Very Large (>50 students),3.2,30.6,15.3,2.7,1.8,4.5,45,Ukakishore Ramachandran
+CS 6210,O01,Spring 2017,Very Large (>50 students),2.96,35,15,5,5,7.5,32.5,Ukakishore Ramachandran
+CS 6210,O01,Spring 2018,Very Large (>50 students),3.16,34.6,13.6,8.2,0,5.4,38.2,Ukakishore Ramachandran
+CS 6210,O01,Spring 2019,Very Large (>50 students),3.25,46.4,12.9,7.9,1.4,5.7,25.7,Ukakishore Ramachandran
+CS 6210,A,Spring 2020,Large (31-49 students),3.6,50,14.3,7.1,0,0,16.7,Ukakishore Ramachandran
+CS 6210,O01,Spring 2020,Very Large (>50 students),3.47,39.9,15.7,5.6,0,1.6,37.1,Ukakishore Ramachandran
+CS 6210,OCY,Spring 2020,Very Small (<10 students),4,50,0,0,0,0,50,Ukakishore Ramachandran
+CS 6210,O01,Spring 2021,Very Large (>50 students),3.48,44.7,13.2,3.2,0.5,3.2,32.6,Ukakishore Ramachandran
+CS 6210,OCY,Spring 2021,Very Small (<10 students),3.67,50,25,0,0,0,25,Ukakishore Ramachandran
+CS 6238,A,Fall 2014,Large (31-49 students),3.55,50,40.6,0,0,0,6.2,Mustaque Ahamad
+CS 6238,Q,Fall 2014,Very Small (<10 students),2.8,40,40,0,0,20,0,Mustaque Ahamad
+CS 6238,A,Fall 2015,Large (31-49 students),3.5,50,41.7,2.8,0,0,5.6,Mustaque Ahamad
+CS 6238,QSA,Fall 2015,Large (31-49 students),3.51,57.1,37.1,5.7,0,0,0,Mustaque Ahamad
+CS 6238,A,Fall 2016,Large (31-49 students),3.39,36.7,51,2,0,0,4.1,Mustaque Ahamad
+CS 6238,A,Fall 2017,Large (31-49 students),3.44,51.1,40.4,2.1,0,2.1,2.1,Mustaque Ahamad
+CS 6238,O01,Fall 2019,Very Large (>50 students),3.47,42.1,27.8,4.5,0,0.8,24.8,Mustaque Ahamad
+CS 6238,OCY,Fall 2019,Very Large (>50 students),3.34,40.5,35.1,5.4,1.4,1.4,16.2,Mustaque Ahamad
+CS 6238,O01,Fall 2020,Very Large (>50 students),3.5,44.1,39,1.7,0,0,15.2,Mustaque Ahamad
+CS 6238,OCY,Fall 2020,Large (31-49 students),3.35,35,55,2.5,0,0,7.5,Mustaque Ahamad
+CS 6238,A,Spring 2011,Very Large (>50 students),3.39,45.4,32.7,10.9,0,0,5.4,Mustaque Ahamad
+CS 6238,Q,Spring 2011,Small (10-20 students),3.09,41.7,16.7,33.3,0,0,8.3,Mustaque Ahamad
+CS 6238,A,Spring 2012,Large (31-49 students),3.46,43.2,51.4,0,0,0,2.7,Mustaque Ahamad
+CS 6238,Q,Spring 2012,Very Small (<10 students),3,0,50,0,0,0,50,Mustaque Ahamad
+CS 6238,Q3,Spring 2012,Small (10-20 students),3.3,30,70,0,0,0,0,Mustaque Ahamad
+CS 6238,A,Spring 2013,Large (31-49 students),3.24,39,41.5,7.3,4.9,0,4.9,Mustaque Ahamad
+CS 6238,Q,Spring 2013,Very Small (<10 students),2.63,25,37.5,25,0,12.5,0,Mustaque Ahamad
+CS 6238,Q3,Spring 2013,Small (10-20 students),3.18,27.3,63.6,9.1,0,0,0,Mustaque Ahamad
+CS 6238,QSA,Spring 2018,Large (31-49 students),3.5,61.8,26.5,11.8,0,0,0,Mustaque Ahamad
+CS 6238,A,Spring 2019,Very Large (>50 students),3.43,43.4,50.9,1.9,0,0,0,Mustaque Ahamad
+CS 6238,A,Spring 2020,Large (31-49 students),3.45,47.7,43.2,4.6,0,0,4.6,Mustaque Ahamad
+CS 6238,A,Spring 2020,Very Small (<10 students),3.5,50,50,0,0,0,0,Mustaque Ahamad
+CS 6238,O01,Spring 2020,Very Large (>50 students),3.39,37.8,34.7,4.1,0,1,22.4,Mustaque Ahamad
+CS 6238,OCY,Spring 2020,Very Large (>50 students),3.44,42.4,32.2,6.8,0,0,15.2,Mustaque Ahamad
+CS 6238,A,Spring 2021,Large (31-49 students),3.36,52.9,29.4,11.8,2.9,0,0,Mustaque Ahamad
+CS 6238,A,Spring 2021,Very Small (<10 students),3.5,50,50,0,0,0,0,Mustaque Ahamad
+CS 6238,O01,Spring 2021,Very Large (>50 students),3.24,30.6,41.2,10.6,0,0,17.6,Mustaque Ahamad
+CS 6238,OCY,Spring 2021,Very Large (>50 students),3.44,46.2,35,7.5,0,0,11.2,Mustaque Ahamad
+CS 6238,O01,Summer 2020,Large (31-49 students),3.43,44.7,40.4,2.1,2.1,0,10.6,Mustaque Ahamad
+CS 6238,OCY,Summer 2020,Large (31-49 students),3.41,36.2,38.3,4.3,0,0,21.3,Mustaque Ahamad
+CS 6250,O01,Fall 2016,Very Large (>50 students),3.32,41.3,22.7,8.7,1.1,1.9,24.3,Maria Konte
+CS 6250,O01,Fall 2017,Very Large (>50 students),3.61,56.8,13.6,4,0.8,1.5,23.2,Maria Konte
+CS 6250,O01,Fall 2018,Very Large (>50 students),3.61,58.5,14,2.6,1.4,1.8,21.8,Maria Konte
+CS 6250,O01,Fall 2019,Very Large (>50 students),3.63,56.6,17.4,3.1,0.7,0.9,21.2,Maria Konte
+CS 6250,O01,Fall 2020,Very Large (>50 students),3.66,67.2,14.3,1.9,0.4,2.5,13.6,Maria Konte
+CS 6250,O01,Spring 2017,Very Large (>50 students),3.31,34.8,24.9,7.1,3.1,0,30.1,Maria Konte
+CS 6250,O01,Spring 2018,Very Large (>50 students),3.64,60.2,11.5,2.5,0.7,2.3,22.8,Maria Konte
+CS 6250,O01,Spring 2019,Very Large (>50 students),3.46,51.2,15.9,3.4,1.8,3.2,24.6,Maria Konte
+CS 6250,O01,Spring 2020,Very Large (>50 students),3.77,65.4,13.4,1.9,0.3,0.2,18.8,Maria Konte
+CS 6250,OCY,Spring 2020,Mid-Size (21-30 students),3.75,55.6,18.5,0,0,0,25.9,Maria Konte
+CS 6250,O01,Spring 2021,Very Large (>50 students),3.72,68.4,14.8,2.4,0.3,1,12.6,Maria Konte
+CS 6250,OCY,Spring 2021,Very Large (>50 students),3.72,58,12,0,0,2,26,Maria Konte
+CS 6250,O01,Summer 2017,Very Large (>50 students),3.62,57.6,14.8,5.8,1.2,0,20.6,Maria Konte
+CS 6250,O01,Summer 2018,Very Large (>50 students),3.8,70.8,12,2.1,0,0.3,14.8,Maria Konte
+CS 6250,O01,Summer 2019,Very Large (>50 students),3.62,61.9,21,4,0.7,0.5,11.9,Maria Konte
+CS 6250,O01,Summer 2020,Very Large (>50 students),3.73,69.5,17,2.4,0.5,0.2,9.7,Maria Konte
+CS 6250,OCY,Summer 2020,Very Large (>50 students),3.78,72.7,20,0,0,0,7.3,Maria Konte
+CS 6260,A,Fall 2010,Large (31-49 students),3.13,25.5,44.7,10.6,2.1,0,12.8,Alexandra Boldyreva
+CS 6260,A,Fall 2011,Large (31-49 students),3.37,36.6,43.9,4.9,0,0,12.2,Alexandra Boldyreva
+CS 6260,Q,Fall 2011,Small (10-20 students),2.53,23.5,41.2,11.8,11.8,11.8,0,Alexandra Boldyreva
+CS 6260,A,Fall 2013,Very Large (>50 students),3.12,27.4,43.1,11.8,0,2,13.7,Alexandra Boldyreva
+CS 6260,Q,Fall 2013,Very Small (<10 students),3.33,25,50,0,0,0,25,Alexandra Boldyreva
+CS 6260,A,Fall 2014,Large (31-49 students),3.35,33.3,41,5.1,0,0,18,Alexandra Boldyreva
+CS 6260,Q,Fall 2014,Very Small (<10 students),3,16.7,66.7,16.7,0,0,0,Alexandra Boldyreva
+CS 6260,A,Fall 2015,Large (31-49 students),3.46,43.6,43.6,2.6,0,0,0,Alexandra Boldyreva
+CS 6260,Q,Fall 2015,Very Small (<10 students),2.83,0,83.3,16.7,0,0,0,Alexandra Boldyreva
+CS 6260,A,Fall 2016,Large (31-49 students),3.53,47.7,36.4,2.3,0,0,4.6,Alexandra Boldyreva
+CS 6260,A,Fall 2017,Very Large (>50 students),3.42,44.8,43.3,3,1.5,0,3,Alexandra Boldyreva
+CS 6260,O01,Fall 2020,Very Large (>50 students),3.33,39.7,30.1,6.8,1.4,1.4,20.6,Alexandra Boldyreva
+CS 6260,OCY,Fall 2020,Very Large (>50 students),3.11,23,40.2,11.5,0,1.2,24.1,Alexandra Boldyreva
+CS 6260,QSA,Spring 2015,Large (31-49 students),3.37,48.6,40,11.4,0,0,0,Alexandra Boldyreva
+CS 6260,QSA,Spring 2018,Large (31-49 students),3.53,55.9,41.2,2.9,0,0,0,Alexandra Boldyreva
+CS 6260,A,Spring 2019,Large (31-49 students),3.34,32.6,38.8,6.1,0,0,10.2,Alexandra Boldyreva
+CS 6260,A,Spring 2020,Large (31-49 students),3.58,59.5,31,4.8,0,0,2.4,Alexandra Boldyreva
+CS 6260,A,Spring 2020,Very Small (<10 students),4,50,0,0,0,0,50,Alexandra Boldyreva
+CS 6260,O01,Spring 2020,Very Large (>50 students),3.49,37.9,30.3,3,0,0,28.8,Alexandra Boldyreva
+CS 6260,OCY,Spring 2020,Very Large (>50 students),3,15.8,38.6,10.5,0,1.8,33.3,Alexandra Boldyreva
+CS 6260,A,Spring 2021,Large (31-49 students),3.38,45.2,47.6,7.1,0,0,0,Alexandra Boldyreva
+CS 6260,A,Spring 2021,Very Small (<10 students),3,50,0,50,0,0,0,Alexandra Boldyreva
+CS 6260,O01,Spring 2021,Very Large (>50 students),3.42,40,26.2,8.8,0,0,23.8,Alexandra Boldyreva
+CS 6260,OCY,Spring 2021,Very Large (>50 students),3.07,21,53.2,11.3,1.6,0,12.9,Alexandra Boldyreva
+CS 6260,QSA,Spring 2021,Mid-size (21-30 students),3.07,26.7,53.3,20,0,0,0,Alexandra Boldyreva
+CS 6262,O01,Fall 2016,Very Large (>50 students),3.88,77.4,6,1.4,0,0.5,14.8,Wenke Lee
+CS 6262,O01,Fall 2017,Very Large (>50 students),3.36,43.7,22.7,6.4,0.3,3,23.7,Wenke Lee
+CS 6262,A,Fall 2018,Very Large (>50 students),3.16,32.1,39.6,9.4,1.9,1.9,11.3,Wenke Lee
+CS 6262,O01,Fall 2018,Very Large (>50 students),2.73,13.8,23.1,9,1.4,5.5,47.2,Wenke Lee
+CS 6262,A,Fall 2019,Large (31-49 students),3.65,63.4,14.6,2.4,0,2.4,2.4,Wenke Lee
+CS 6262,O01,Fall 2019,Very Large (>50 students),3.21,38.2,12.9,6.4,0.9,5.6,36,Wenke Lee
+CS 6262,OCY,Fall 2019,Mid-Size (21-30 students),3.06,34.5,10.3,0,10.3,3.4,41.4,Wenke Lee
+CS 6262,A,Fall 2020,Large (31-49 students),3.9,84.8,3,3,0,0,6.1,Wenke Lee
+CS 6262,O01,Fall 2020,Very Large (>50 students),3.63,60.1,13.3,2.2,0.9,2.2,21.5,Wenke Lee
+CS 6262,OCY,Fall 2020,Very Large (>50 students),3.56,66.2,14.9,4,0,4,10.8,Wenke Lee
+CS 6262,QSA,Fall 2020,Mid-size (21-30 students),4,100,0,0,0,0,0,Wenke Lee
+CS 6262,A,Spring 2012,Large (31-49 students),3.65,62.5,34.4,0,0,0,3.1,Wenke Lee
+CS 6262,QSA,Spring 2015,Large (31-49 students),3.97,97.1,2.9,0,0,0,0,Wenke Lee
+CS 6262,O01,Spring 2017,Very Large (>50 students),3.68,66.8,14.4,2.7,1.3,1,13.8,Wenke Lee
+CS 6262,O01,Spring 2018,Very Large (>50 students),3.1,29.8,27,4.6,0,6.1,32.5,Wenke Lee
+CS 6262,O01,Spring 2019,Very Large (>50 students),3.08,20.4,23.9,6.7,1.1,2.5,45.4,Wenke Lee
+CS 6262,OCY,Spring 2019,Very Small (<10 students),3,25,25,25,0,0,25,Wenke Lee
+CS 6262,O01,Spring 2020,Very Large (>50 students),3.48,43.3,14.2,1.4,0.4,3.6,37.1,Wenke Lee
+CS 6262,OCY,Spring 2020,Very Large (>50 students),3.51,47.1,13.2,7.4,0,1.5,30.9,Wenke Lee
+CS 6262,O01,Spring 2021,Very Large (>50 students),3.78,70.2,5.2,0.8,0.8,2,20.2,Wenke Lee
+CS 6262,OCY,Spring 2021,Very Large (>50 students),3.5,62,15.5,5.6,0,4.2,12.7,Wenke Lee
+CS 6262,O01,Summer 2017,Very Large (>50 students),3.58,60.1,21.7,1.9,1.1,1.9,13.3,Wenke Lee
+CS 6262,QSA,Summer 2017,Large (31-49 students),3.97,97.1,2.9,0,0,0,0,Wenke Lee
+CS 6262,O01,Summer 2018,Very Large (>50 students),2.89,23.7,39.2,11.6,0,6.9,18.5,Wenke Lee
+CS 6262,O01,Summer 2019,Very Large (>50 students),2.95,35.8,19,2.9,2.9,10.2,29.2,Wenke Lee
+CS 6262,OCY,Summer 2019,Large (31-49 students),2.77,31.8,15.9,9.1,2.3,11.4,29.6,Wenke Lee
+CS 6262,O01,Summer 2020,Very Large (>50 students),3.68,55.8,9.4,2.2,0,2.2,30.4,Wenke Lee
+CS 6262,OCY,Summer 2020,Very Large (>50 students),3.69,63.5,13.5,1.9,0,1.9,19.2,Wenke Lee
+CS 6290,O01,Fall 2014,Very Large (>50 students),2.9,17.3,12.7,11.8,0.9,2.7,54.6,Milos Prvulovic
+CS 6290,A,Fall 2015,Small (10-20 students),3.33,18.2,36.4,0,0,0,36.4,Milos Prvulovic
+CS 6290,O01,Fall 2015,Very Large (>50 students),3,24.6,21.8,5.4,2.7,4.6,40.9,Milos Prvulovic
+CS 6290,A,Fall 2016,Small (10-20 students),3.27,35.7,28.6,14.3,0,0,14.3,Milos Prvulovic
+CS 6290,O01,Fall 2016,Very Large (>50 students),2.88,18.8,23.8,7.9,0,5.9,43.6,Milos Prvulovic
+CS 6290,A,Fall 2017,Small (10-20 students),3.62,53.3,33.3,0,0,0,13.3,Milos Prvulovic
+CS 6290,O01,Fall 2017,Very Large (>50 students),2.98,24.5,17.9,9.4,3.8,2.8,41.5,Milos Prvulovic
+CS 6290,O01,Fall 2018,Very Large (>50 students),3.08,23.2,23.2,10.5,3.2,0.5,39.5,Milos Prvulovic
+CS 6290,A,Fall 2019,Small (10-20 students),3.71,62.5,25,0,0,0,6.2,Milos Prvulovic
+CS 6290,O01,Fall 2019,Very Large (>50 students),3.03,25.4,21.2,6.7,2.1,4.2,38.3,Milos Prvulovic
+CS 6290,O01,Fall 2020,Very Large (>50 students),3.18,26.9,23.6,8.2,0.6,2.2,33,Milos Prvulovic
+CS 6290,O01,Spring 2015,Very Large (>50 students),2.65,16.2,20.5,8.1,4.4,6.2,44.7,Milos Prvulovic
+CS 6290,O01,Spring 2016,Very Large (>50 students),2.74,21,22.4,7.9,2.6,7.9,38.2,Milos Prvulovic
+CS 6290,O01,Spring 2017,Large (31-49 students),3.33,24.5,20.4,2,0,2,51,Milos Prvulovic
+CS 6290,O01,Spring 2018,Very Large (>50 students),2.94,25.8,18.9,8.3,3.8,4.6,38.6,Milos Prvulovic
+CS 6290,O01,Spring 2019,Very Large (>50 students),2.96,25.8,18.7,7.1,3,5,39.4,Milos Prvulovic
+CS 6290,O01,Spring 2020,Very Large (>50 students),3.2,27.4,23.9,4.2,0.4,3.5,39.4,Milos Prvulovic
+CS 6290,O01,Spring 2021,Very Large (>50 students),3.37,37.8,19.2,5.8,0,2.6,33.3,Milos Prvulovic
+CS 6290,O01,Summer 2019,Very Large (>50 students),3.13,34,22.2,10.4,2.1,3.5,27.8,Milos Prvulovic
+CS 6290,O01,Summer 2020,Very Large (>50 students),3.35,39.9,25.5,7.4,0,2.1,20.7,Milos Prvulovic
+CS 6300,A,Fall 2010,Large (31-49 students),3.7,70,30,0,0,0,0,Alessandro Orso
+CS 6300,A,Fall 2012,Large (31-49 students),3.74,70.7,24.4,0,0,0,4.9,Alessandro Orso
+CS 6300,O01,Fall 2014,Very Large (>50 students),3.49,63.2,16.7,5,2.3,3.1,9.7,Alessandro Orso
+CS 6300,O01,Fall 2015,Very Large (>50 students),3.57,60.5,19.6,2.8,2.6,1.1,13.4,Alessandro Orso
+CS 6300,O01,Fall 2016,Very Large (>50 students),3.65,71,12.9,4.3,2,1,8.8,Alessandro Orso
+CS 6300,O01,Fall 2017,Very Large (>50 students),3.66,68.8,14.4,3.5,1.8,0.9,10.6,Alessandro Orso
+CS 6300,O3,Fall 2017,Very Small (<10 students),4,100,0,0,0,0,0,Alessandro Orso
+CS 6300,O01,Fall 2018,Very Large (>50 students),3.76,73.6,7.2,3.2,1.1,0.9,14,Alessandro Orso
+CS 6300,O01,Fall 2019,Very Large (>50 students),3.8,76.1,10,1.6,1,0.4,10.4,Alessandro Orso
+CS 6300,OCY,Fall 2019,Small (10-20 students),3.58,71.4,7.1,0,0,7.1,14.3,Alessandro Orso
+CS 6300,O01,Fall 2020,Very Large (>50 students),3.73,72.8,18.5,1.5,0.6,0.4,5.6,Alessandro Orso
+CS 6300,OCY,Fall 2020,Mid-size (21-30 students),4,90.9,0,0,0,0,9.1,Alessandro Orso
+CS 6300,A,Spring 2012,Large (31-49 students),3.67,64.1,25.6,2.6,0,0,5.1,Alessandro Orso
+CS 6300,Q,Spring 2012,Very Small (<10 students),3,25,25,25,0,0,25,Alessandro Orso
+CS 6300,Q3,Spring 2012,Very Small (<10 students),3.33,33.3,66.7,0,0,0,0,Alessandro Orso
+CS 6300,A,Spring 2014,Large (31-49 students),3.53,59,30.8,7.7,0,0,0,Alessandro Orso
+CS 6300,O01,Spring 2014,Very Large (>50 students),3.39,65.4,13.8,6.2,2.3,6.2,6.2,Alessandro Orso
+CS 6300,Q,Spring 2014,Small (10-20 students),3.6,63.6,18.2,9.1,0,0,9.1,Alessandro Orso
+CS 6300,O01,Spring 2015,Very Large (>50 students),3.74,75.1,12.8,3.1,1.2,0.3,7.5,Alessandro Orso
+CS 6300,O01,Spring 2016,Very Large (>50 students),3.58,59.3,25.4,4.5,1.4,0,9.5,Alessandro Orso
+CS 6300,O01,Spring 2017,Very Large (>50 students),3.54,63.8,18.7,2.6,2,2.8,10,Alessandro Orso
+CS 6300,O01,Spring 2018,Very Large (>50 students),3.67,69.3,13.4,4.6,0.2,1.5,10.9,Alessandro Orso
+CS 6300,O3,Spring 2018,Very Small (<10 students),4,100,0,0,0,0,0,Alessandro Orso
+CS 6300,O01,Spring 2019,Very Large (>50 students),3.62,68.6,11.9,4.3,2,1.8,11.4,Alessandro Orso
+CS 6300,OCY,Spring 2019,Very Small (<10 students),3.67,83.3,0,16.7,0,0,0,Alessandro Orso
+CS 6300,O01,Spring 2020,Very Large (>50 students),3.87,80.2,5.4,1.6,0.8,0.2,11.7,Alessandro Orso
+CS 6300,OCY,Spring 2020,Small (10-20 students),3.86,50,8.3,0,0,0,41.7,Alessandro Orso
+CS 6300,O01,Spring 2021,Very Large (>50 students),3.62,66.6,20.5,2.7,0.6,2,7.2,Alessandro Orso
+CS 6300,OCY,Spring 2021,Mid-size (21-30 students),3.53,54.6,22.7,9.1,0,0,13.6,Alessandro Orso
+CS 6300,O01,Summer 2014,Very Large (>50 students),3.72,84.5,5.8,1.5,1.5,3.4,3.4,Alessandro Orso
+CS 6300,O01,Summer 2015,Very Large (>50 students),3.47,61.6,17.2,5.6,1.3,3.9,10.3,Alessandro Orso
+CS 6300,O01,Summer 2016,Very Large (>50 students),3.61,68.5,18.5,4,1.5,1.5,6,Alessandro Orso
+CS 6300,O01,Summer 2017,Very Large (>50 students),3.66,70.2,14.1,3.5,2.5,0.5,9.1,Alessandro Orso
+CS 6300,O01,Summer 2018,Very Large (>50 students),3.79,71.4,11.4,1.4,0.3,0.7,14.8,Alessandro Orso
+CS 6300,O01,Summer 2019,Very Large (>50 students),3.68,69.4,12,3.6,1,1.5,12.2,Alessandro Orso
+CS 6300,OCY,Summer 2019,Small (10-20 students),3.67,66.7,0,0,8.3,0,25,Alessandro Orso
+CS 6300,O01,Summer 2020,Very Large (>50 students),3.78,80.6,13.1,2.8,0.2,0.5,2.5,Alessandro Orso
+CS 6300,OCY,Summer 2020,Small (10-20 students),3.73,69.2,7.7,7.7,0,0,15.4,Alessandro Orso
+CS 6400,O01,Fall 2016,Very Large (>50 students),3.56,57.5,32.9,3.5,0.5,0,5.6,Leo Mark
+CS 6400,O01,Fall 2017,Very Large (>50 students),3.32,39.7,37.3,7.3,1.2,0.7,13.8,Leo Mark
+CS 6400,OAN,Fall 2017,Small (10-20 students),3.36,28.6,50,0,0,0,21.4,Leo Mark
+CS 6400,O01,Fall 2018,Very Large (>50 students),3.14,27.7,47.2,10.7,1.6,0.5,12.2,Leo Mark
+CS 6400,OAN,Fall 2018,Large (31-49 students),2.87,16.1,41.9,9.7,3.2,3.2,25.8,Leo Mark
+CS 6400,O01,Fall 2019,Very Large (>50 students),3.08,24.9,41.6,7.8,2.3,2.1,21.3,Leo Mark
+CS 6400,OAN,Fall 2019,Large (31-49 students),2.8,16.3,41.9,16.3,4.6,2.3,14,Leo Mark
+CS 6400,OCY,Fall 2019,Very Small (<10 students),3,0,75,0,0,0,25,Leo Mark
+CS 6400,O01,Fall 2020,Very Large (>50 students),3.32,40.2,40,8.8,0.8,0.2,9.6,Leo Mark
+CS 6400,OAN,Fall 2020,Large (31-49 students),3.26,24.4,46.7,4.4,0,0,22.2,Leo Mark
+CS 6400,OCY,Fall 2020,Small (10-20 students),2.33,9.1,27.3,27.3,18.2,0,18.2,Leo Mark
+CS 6400,O01,Spring 2016,Very Large (>50 students),3.2,35.8,43,8.3,2.3,1.5,8.7,Leo Mark
+CS 6400,O01,Spring 2018,Very Large (>50 students),3.29,38.9,41.2,5.6,1.6,1.4,11.3,Leo Mark
+CS 6400,OAN,Spring 2018,Mid-Size (21-30 students),3.38,35.7,46.4,3.6,0,0,14.3,Leo Mark
+CS 6400,O01,Spring 2019,Very Large (>50 students),3.14,27.9,48.6,8,2.6,0.9,12.1,Leo Mark
+CS 6400,OAN,Spring 2019,Very Large (>50 students),3.35,44.8,41.4,5.2,3.4,0,5.2,Leo Mark
+CS 6400,OCY,Spring 2019,Very Small (<10 students),3,0,100,0,0,0,0,Leo Mark
+CS 6400,O01,Spring 2020,Very Large (>50 students),3.39,41.6,36.8,5.9,1.1,0,14.6,Leo Mark
+CS 6400,OAN,Spring 2020,Large (31-49 students),3.28,31.2,37.5,9.4,0,0,21.9,Leo Mark
+CS 6400,OCY,Spring 2020,Very Small (<10 students),3.5,16.7,16.7,0,0,0,66.7,Leo Mark
+CS 6400,O01,Spring 2021,Very Large (>50 students),3.35,40.5,40.5,5.6,1,0.6,10.7,Leo Mark
+CS 6400,OAN,Spring 2021,Very Large (>50 students),3.24,30,52.9,5.7,1.4,0,8.6,Leo Mark
+CS 6400,OCY,Spring 2021,Very Small (<10 students),3,14.3,57.1,14.3,0,0,14.3,Leo Mark
+CS 6400,O01,Summer 2018,Very Large (>50 students),3.28,37.8,44,6.2,1.7,1,9.3,Leo Mark
+CS 6400,OAN,Summer 2018,Large (31-49 students),2.87,38.7,29,16.1,12.9,3.2,0,Leo Mark
+CS 6400,O01,Summer 2019,Very Large (>50 students),2.88,15.9,51.2,15.9,2.8,1.6,12.7,Leo Mark
+CS 6400,OAN,Summer 2019,Very Large (>50 students),2.65,10.5,44.7,31.6,4.4,0.9,7.9,Leo Mark
+CS 6400,OCY,Summer 2019,Very Small (<10 students),2.4,0,42.9,14.3,14.3,0,28.6,Leo Mark
+CS 6400,O01,Summer 2020,Very Large (>50 students),3.12,25.9,52.7,10.7,0.9,0.9,8.5,Leo Mark
+CS 6400,OAN,Summer 2020,Very Large (>50 students),3.31,40.4,42.3,11.5,0,0,5.8,Leo Mark
+CS 6440,O01,Fall 2018,Very Large (>50 students),3.88,84.9,7.8,0.9,0,0.5,6,Jon Duke
+CS 6440,O01,Fall 2019,Very Large (>50 students),3.95,87.3,2.8,0.5,0,0.2,8.9,Jon Duke
+CS 6440,O01,Fall 2020,Very Large (>50 students),3.89,73.9,4.3,1.1,0.5,0.3,19.7,Jon Duke
+CS 6440,A,Spring 2019,Large (31-49 students),3.85,88.4,4.6,0,0,2.3,2.3,Jon Duke
+CS 6440,O01,Spring 2019,Very Large (>50 students),3.91,87.8,4.8,1.1,0,0.4,5.9,Jon Duke
+CS 6440,A,Spring 2020,Large (31-49 students),3.87,73.9,10.9,0,0,0,10.9,Jon Duke
+CS 6440,A,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Jon Duke
+CS 6440,O01,Spring 2020,Very Large (>50 students),4,89.2,0,0,0,0,10.8,Jon Duke
+CS 6440,O1,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Jon Duke
+CS 6440,A,Spring 2021,Mid-size (21-30 students),4,88,0,0,0,0,4,Jon Duke
+CS 6440,A,Spring 2021,Very Small (<10 students),4,100,0,0,0,0,0,Jon Duke
+CS 6440,O01,Spring 2021,Very Large (>50 students),3.89,67.7,1.8,1.4,0,0.9,28.2,Jon Duke
+CS 6440,QSZ,Spring 2021,Very Small (<10 students),4,83.3,0,0,0,0,16.7,Jon Duke
+CS 6475,O01,Fall 2015,Very Large (>50 students),3.52,50.7,27.5,2.8,1.4,0.7,16.2,Irfan Essa
+CS 6475,O01,Fall 2016,Very Large (>50 students),3.22,36.9,37.7,9,4.1,0,12.3,Irfan Essa
+CS 6475,O01,Fall 2017,Very Large (>50 students),3.25,26.7,33.8,4.3,2.1,0.4,32.7,Irfan Essa
+CS 6475,O01,Fall 2018,Very Large (>50 students),3.23,28.3,30.8,2.9,1.8,2.2,34.1,Irfan Essa
+CS 6475,O01,Fall 2019,Very Large (>50 students),3.08,24.3,32.2,6.5,1,3.4,32.2,Irfan Essa
+CS 6475,O01,Fall 2020,Very Large (>50 students),3.01,24.4,28,7.9,1.6,4.3,31.2,Irfan Essa
+CS 6475,A,Spring 2015,Mid-Size (21-30 students),3.86,82.6,13,0,0,0,4.4,Irfan Essa
+CS 6475,O01,Spring 2015,Very Large (>50 students),3.56,62.5,12,5.4,1.6,2.2,16.3,Irfan Essa
+CS 6475,A,Spring 2016,Mid-Size (21-30 students),3.65,69.2,26.9,3.8,0,0,0,Irfan Essa
+CS 6475,O01,Spring 2016,Very Large (>50 students),3.3,42.3,35.9,6.4,1.9,1.9,11.5,Irfan Essa
+CS 6475,A,Spring 2017,Mid-Size (21-30 students),3.62,63.3,20,0,0,3.3,6.7,Irfan Essa
+CS 6475,O01,Spring 2017,Very Large (>50 students),3.38,42.8,32.9,3.7,2.1,1.2,17.3,Irfan Essa
+CS 6475,O01,Spring 2018,Very Large (>50 students),3.14,26.9,34.8,7.6,0.3,2.8,27.6,Irfan Essa
+CS 6475,O01,Spring 2019,Very Large (>50 students),2.97,24.2,27.5,10.3,1.5,4.3,32.2,Irfan Essa
+CS 6475,O01,Spring 2020,Very Large (>50 students),3.39,31,20.4,3.2,1,1.3,42.5,Irfan Essa
+CS 6475,A,Spring 2021,Mid-size (21-30 students),3.04,36,40,8,0,8,4,Irfan Essa
+CS 6475,A,Spring 2021,Very Small (<10 students),4,75,0,0,0,0,25,Irfan Essa
+CS 6475,O01,Spring 2021,Very Large (>50 students),2.85,28,21.3,8.2,2.9,8.2,30.4,Irfan Essa
+CS 6475,O01,Summer 2015,Very Large (>50 students),3.56,58.7,24.6,6.5,0.7,0,9.4,Irfan Essa
+CS 6475,O01,Summer 2016,Very Large (>50 students),3.46,49.4,25.3,5.9,1.3,0.8,16.9,Irfan Essa
+CS 6476,A,Fall 2015,Very Large (>50 students),3.89,87.8,5.4,0,0,1.4,0,James Hays
+CS 6476,A,Fall 2016,Very Large (>50 students),3.84,78.3,10.9,0,1.1,0,7.6,James Hays
+CS 6476,A,Fall 2017,Very Large (>50 students),3.8,75.6,12.2,0,0.9,0.9,6.1,James Hays
+CS 6476,A,Fall 2018,Very Large (>50 students),3.68,68,19.1,3.1,0.5,0.5,6.2,James Hays
+CS 6476,A,Spring 2021,Very Large (>50 students),3.87,77.7,7.7,0.8,0.8,0,6.9,James Hays
+CS 6476,O01,Fall 2015,Very Large (>50 students),3.26,34.8,25.9,9.4,2.5,0.5,26.9,Irfan Essa
+CS 6476,O01,Fall 2016,Very Large (>50 students),3.24,45.5,15.9,2.6,1.7,7.3,27,Irfan Essa
+CS 6476,O01,Fall 2017,Very Large (>50 students),3.26,43.9,16.3,5.9,1.8,5,27,Irfan Essa
+CS 6476,O01,Fall 2018,Very Large (>50 students),3.49,46.8,16.2,5.1,1.1,1.6,29.2,Irfan Essa
+CS 6476,O01,Fall 2019,Very Large (>50 students),3.55,48.4,14.3,3.7,0.6,1.8,23.6,Irfan Essa
+CS 6476,O01,Fall 2020,Very Large (>50 students),3.75,71.1,7.2,2.2,0.7,1.8,14.1,Irfan Essa
+CS 6476,O01,Spring 2016,Very Large (>50 students),3.37,41.7,19.1,4.4,1.5,2.9,30.4,Irfan Essa
+CS 6476,O01,Spring 2017,Very Large (>50 students),3.55,60.8,16.1,4,0.5,3,15.6,Irfan Essa
+CS 6476,O01,Spring 2018,Very Large (>50 students),3.24,42.4,16.7,3.5,3.1,5.2,29.2,Irfan Essa
+CS 6476,O01,Spring 2019,Very Large (>50 students),3.52,57.3,12.5,6.8,1.2,2.1,19.8,Irfan Essa
+CS 6476,O01,Spring 2020,Very Large (>50 students),3.71,64.9,11.6,1.8,0.5,1.8,18.2,Irfan Essa
+CS 6476,O01,Spring 2021,Very Large (>50 students),3.78,61.6,6.4,1.5,0.4,1.4,23.8,Irfan Essa
+CS 6515,A,Fall 2019,Very Large (>50 students),3.53,61.1,25.4,3.2,4,0,5.6,Gernady Brito
+CS 6515,O01,Fall 2019,Very Large (>50 students),3.29,30.2,42,4.7,0.9,0.4,21.4,Gernady Brito
+CS 6515,O3,Fall 2019,Very Small (<10 students),3.83,71.4,14.3,0,0,0,14.3,Gernady Brito
+CS 6515,A,Fall 2020,Very Large (>50 students),3.82,82,15,1.5,0,0,1.5,Gernady Brito
+CS 6515,A,Fall 2020,Small (10-20 students),3.94,94.1,5.9,0,0,0,0,Gernady Brito
+CS 6515,O01,Fall 2020,Very Large (>50 students),3.44,43.2,39,4.5,0.2,0,12.7,Gernady Brito
+CS 6515,O3,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Gernady Brito
+CS 6515,A,Spring 2019,Very Large (>50 students),3.36,43.8,46.1,8.6,0,0,1.6,Gernady Brito
+CS 6515,O01,Spring 2019,Very Large (>50 students),3.01,20.1,44.4,12.6,1.7,1,20.3,Gernady Brito
+CS 6515,O3,Spring 2019,Very Small (<10 students),2,0,0,100,0,0,0,Gernady Brito
+CS 6515,A,Spring 2020,Very Large (>50 students),3.64,67.1,29.5,0.7,0.7,0.7,1.3,Gernady Brito
+CS 6515,A,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Gernady Brito
+CS 6515,O01,Spring 2020,Very Large (>50 students),3.48,44,40,1.7,0.2,0.2,13.6,Gernady Brito
+CS 6515,O3,Spring 2020,Small (10-20 students),3.83,83.3,16.7,0,0,0,0,Gernady Brito
+CS 6515,O01,Spring 2021,Very Large (>50 students),3.42,45.5,38.7,3.7,0.6,1,10,Gernady Brito
+CS 6515,O3,Spring 2021,Very Small (<10 students),3,0,100,0,0,0,0,Gernady Brito
+CS 6515,R,Spring 2021,Very Small (<10 students),2.5,0,50,50,0,0,0,Gernady Brito
+CS 6515,O01,Summer 2019,Very Large (>50 students),3.13,26.4,40.3,8.6,2.9,0.6,21.3,Gernady Brito
+CS 6515,O1,Summer 2019,Very Small (<10 students),3,0,100,0,0,0,0,Gernady Brito
+CS 6515,A,Summer 2020,Very Large (>50 students),3.74,70.2,17.9,3,0,0,4.5,Gernady Brito
+CS 6515,O01,Summer 2020,Very Large (>50 students),3.37,40.4,38.9,7,0.2,0.2,13.1,Gernady Brito
+CS 6601,A,Fall 2012,Large (31-49 students),3.51,52.4,35.7,4.8,0,0,7.1,Thad Starner
+CS 6601,A,Fall 2013,Large (31-49 students),3.42,52.5,27.5,7.5,0,2.5,7.5,Thad Starner
+CS 6601,A,Fall 2014,Very Large (>50 students),3.71,62.3,18.8,2.9,0,0,8.7,Thad Starner
+CS 6601,A,Fall 2015,Very Large (>50 students),3.65,57.6,30.5,0,0,0,6.8,Thad Starner
+CS 6601,A,Fall 2016,Very Large (>50 students),3.82,80.5,12.2,0,0,1.2,2.4,Thad Starner
+CS 6601,O01,Fall 2016,Very Large (>50 students),3.62,53.8,13.2,2.7,0,2.1,28.2,Thad Starner
+CS 6601,O3,Fall 2016,Very Small (<10 students),3.67,50,25,0,0,0,25,Thad Starner
+CS 6601,A,Fall 2017,Very Large (>50 students),3.72,76.2,6.7,3.8,1,1.9,8.6,Thad Starner
+CS 6601,O01,Fall 2017,Very Large (>50 students),3.27,31.8,20.8,5.8,2.3,1.5,37.8,Thad Starner
+CS 6601,O3,Fall 2017,Very Small (<10 students),3.8,66.7,16.7,0,0,0,16.7,Thad Starner
+CS 6601,A,Fall 2018,Very Large (>50 students),3.58,54.3,15.7,2.9,1.4,1.4,15.7,Thad Starner
+CS 6601,O01,Fall 2018,Very Large (>50 students),3.26,37.7,21.4,3.4,1.1,4.8,31.6,Thad Starner
+CS 6601,A,Spring 2012,Large (31-49 students),3.48,54.6,24.2,6.1,3,0,9.1,Thad Starner
+CS 6601,O01,Spring 2016,Very Large (>50 students),3.6,48.3,23.7,0,1.9,0,26.1,Thad Starner
+CS 6601,O01,Spring 2017,Very Large (>50 students),3.24,33.8,22.2,5.8,2.4,2.4,33.5,Thad Starner
+CS 6601,O01,Spring 2018,Very Large (>50 students),3.37,36.2,19.3,4,0.9,2.4,37.2,Thad Starner
+CS 6601,O01,Spring 2019,Very Large (>50 students),3.2,33.7,20.7,4.6,1.9,4,34.9,Thad Starner
+CS 6601,O01,Spring 2020,Very Large (>50 students),3.4,39.7,19.9,3.8,0.8,2.6,32.1,Thad Starner
+CS 6601,OAN,Spring 2020,Very Large (>50 students),3.42,39.1,23.2,5.8,0,1.4,30.4,Thad Starner
+CS 6601,O01,Spring 2021,Very Large (>50 students),3.42,46,16.8,3,1.7,3.3,27,Thad Starner
+CS 6601,OAN,Spring 2021,Large (31-49 students),3.76,54.8,11.9,2.4,0,0,31,Thad Starner
+CS 6601,O01,Summer 2017,Very Large (>50 students),3.85,66,6.8,0.7,1.1,0,25.4,Thad Starner
+CS 6750,O01,Fall 2016,Very Large (>50 students),3.65,67.4,21.4,3.4,0,1.1,6.7,David Joyer
+CS 6750,O01,Fall 2017,Very Large (>50 students),3.74,68.6,16.5,0.8,0.4,0.8,12.8,David Joyer
+CS 6750,O01,Fall 2018,Very Large (>50 students),3.67,60,17.8,1.3,0.4,1.3,19.4,David Joyer
+CS 6750,O01,Fall 2019,Very Large (>50 students),3.57,53.1,22.3,3,0.4,1.1,19.6,David Joyer
+CS 6750,OCY,Fall 2019,Small (10-20 students),3.36,53.8,23.1,0,0,7.7,15.4,David Joyer
+CS 6750,O01,Fall 2020,Very Large (>50 students),3.74,65.4,16.3,0.7,0,1,15.9,David Joyer
+CS 6750,OCY,Fall 2020,Very Small (<10 students),3.5,37.5,37.5,0,0,0,25,David Joyer
+CS 6750,QSZ,Fall 2020,Very Small (<10 students),3.75,42.9,14.3,0,0,0,28.6,David Joyer
+CS 6750,O01,Spring 2017,Very Large (>50 students),3.76,73.4,14.7,1.6,0.8,0.4,9.1,David Joyer
+CS 6750,O1,Spring 2017,Very Small (<10 students),4,100,0,0,0,0,0,David Joyer
+CS 6750,O01,Spring 2018,Very Large (>50 students),3.76,69.3,18.2,0.9,0,0.4,11.3,David Joyer
+CS 6750,O01,Spring 2019,Very Large (>50 students),3.7,63.4,19.8,0.8,0.8,0.5,14.7,David Joyer
+CS 6750,O01,Spring 2020,Very Large (>50 students),3.77,66,13.8,1.6,0,0.5,14.1,David Joyer
+CS 6750,OCY,Spring 2020,Small (10-20 students),3.6,54.6,36.4,0,0,0,9.1,David Joyer
+CS 6750,O01,Spring 2021,Very Large (>50 students),3.7,67.3,16.6,2.5,0.5,0.9,11.9,David Joyer
+CS 6750,OCY,Spring 2021,Mid-size (21-30 students),3.63,54.2,20.8,4.2,0,0,20.8,David Joyer
+CS 6750,O01,Summer 2017,Very Large (>50 students),3.79,73.4,13,0.5,1,0.5,11.6,David Joyer
+CS 6750,O01,Summer 2018,Very Large (>50 students),3.69,67.2,17.6,1.2,0,1.9,12.2,David Joyer
+CS 6750,O01,Summer 2019,Very Large (>50 students),3.72,69.8,18.7,1.2,0,1,9.1,David Joyer
+CS 6750,OCY,Summer 2019,Very Small (<10 students),3.17,37.5,12.5,25,0,0,25,David Joyer
+CS 6750,O01,Summer 2020,Very Large (>50 students),3.8,75.5,9.9,1.4,0.2,1.2,11.1,David Joyer
+CS 6750,OAN,Summer 2020,Very Large (>50 students),3.72,75.5,7.6,1.9,1.9,1.9,11.3,David Joyer
+CS 6750,OCY,Summer 2020,Small (10-20 students),3.39,61.1,27.8,5.6,0,5.6,0,David Joyer
+CS 7646,O01,Fall 2019,Very Large (>50 students),3.49,53.3,17.7,3.9,2.2,2.2,17.8,David Joyer
+CS 7646,OAN,Fall 2019,Very Large (>50 students),3.41,61.5,10.4,4.2,2.1,6.2,13.5,David Joyer
+CS 7646,O01,Fall 2020,Very Large (>50 students),3.62,56.6,14.6,3.1,0.8,1.5,20.5,David Joyer
+CS 7646,O3,Fall 2020,Very Small (<10 students),3.5,50,50,0,0,0,0,David Joyer
+CS 7646,OAN,Fall 2020,Very Large (>50 students),3.66,63.8,14.3,3.6,1.5,0.5,14.8,David Joyer
+CS 7646,O01,Spring 2019,Very Large (>50 students),3.56,60,12.6,4.3,1.1,2.9,19,David Joyer
+CS 7646,O3,Spring 2019,Very Small (<10 students),3.83,83.3,16.7,0,0,0,0,David Joyer
+CS 7646,O01,Spring 2020,Very Large (>50 students),3.65,57.2,12.9,3.2,0.1,1.6,19.1,David Joyer
+CS 7646,O3,Spring 2020,Very Small (<10 students),3.83,83.3,16.7,0,0,0,0,David Joyer
+CS 7646,O01,Spring 2021,Very Large (>50 students),3.66,59.5,13.4,2.4,0.4,1.7,21.4,David Joyer
+CS 7646,OAN,Spring 2021,Very Large (>50 students),3.61,59.5,11.5,5.4,2,0.7,20.3,David Joyer
+CS 7646,O01,Summer 2019,Very Large (>50 students),3.62,63.3,13.2,3.3,1.1,2,16.8,David Joyer
+CS 7646,O1,Summer 2019,Very Small (<10 students),4,100,0,0,0,0,0,David Joyer
+CS 7646,O01,Summer 2020,Very Large (>50 students),3.65,62.5,17.4,2.7,1.1,1,13.4,David Joyer
+CS 7646,O3,Summer 2020,Very Small (<10 students),4,100,0,0,0,0,0,David Joyer
+CSE 6250,O01,Fall 2017,Very Large (>50 students),3.72,58.6,3.1,3.1,0,2.5,32.7,Jimeng Sun
+CSE 6250,O01,Fall 2018,Very Large (>50 students),3.57,46.6,16.8,0.5,0,2.6,33.5,Jimeng Sun
+CSE 6250,OAN,Fall 2018,Mid-Size (21-30 students),3.94,71.4,4.8,0,0,0,23.8,Jimeng Sun
+CSE 6250,O01,Fall 2019,Very Large (>50 students),3.59,47.9,18.2,0.4,0,2.3,31.2,Jimeng Sun
+CSE 6250,OAN,Fall 2019,Large (31-49 students),3.52,44.1,20.6,0,0,2.9,32.4,Jimeng Sun
+CSE 6250,O01,Fall 2020,Very Large (>50 students),3.65,56.2,17.4,1.2,0,1.6,23.6,Jimeng Sun
+CSE 6250,OAN,Fall 2020,Very Large (>50 students),3.77,70.3,14.1,3.1,0,0,12.5,Jimeng Sun
+CSE 6250,A,Spring 2017,Mid-Size (21-30 students),4,72.4,0,0,0,0,10.3,Jimeng Sun
+CSE 6250,O01,Spring 2017,Very Large (>50 students),3.81,59.3,3.5,4.6,0,0,32.6,Jimeng Sun
+CSE 6250,A,Spring 2018,Very Large (>50 students),3.78,68.5,19.2,0,0,0,5.5,Jimeng Sun
+CSE 6250,O01,Spring 2018,Very Large (>50 students),3.54,50.6,12,2.4,0,3.6,31.3,Jimeng Sun
+CSE 6250,A,Spring 2019,Very Large (>50 students),3.77,72.9,13.6,3.4,0,0,8.5,Jimeng Sun
+CSE 6250,O01,Spring 2019,Very Large (>50 students),3.69,59.1,8.8,5,0,1.1,26,Jimeng Sun
+CSE 6250,OAN,Spring 2019,Large (31-49 students),3.74,48.4,9.7,3.2,0,0,38.7,Jimeng Sun
+CSE 6250,A,Spring 2020,Large (31-49 students),3.92,79.1,7,0,0,0,11.6,Jimeng Sun
+CSE 6250,O01,Spring 2020,Very Large (>50 students),3.84,56.5,5,0.8,0,0.8,36.8,Jimeng Sun
+CSE 6250,OAN,Spring 2020,Large (31-49 students),3.95,58.1,3.2,0,0,0,38.7,Jimeng Sun
+CSE 6250,O01,Spring 2021,Very Large (>50 students),3.59,59.7,13.7,2.2,0,3.6,20.9,Jimeng Sun
+CSE 6250,OAN,Spring 2021,Very Large (>50 students),3.56,60,14.6,3.6,0,3.6,18.2,Jimeng Sun
+CSE 6242,A,Fall 2014,Very Large (>50 students),3.94,91,2,2,0,0,5,Deunhorng Chau
+CSE 6242,Q,Fall 2014,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,Q3,Fall 2014,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Fall 2015,Very Large (>50 students),3.8,77.5,5,2.5,2.5,0,10.8,Deunhorng Chau
+CSE 6242,Q,Fall 2015,Very Small (<10 students),3.8,57.1,14.3,0,0,0,28.6,Deunhorng Chau
+CSE 6242,Q3,Fall 2015,Very Small (<10 students),4,66.7,0,0,0,0,33.3,Deunhorng Chau
+CSE 6242,A,Fall 2016,Very Large (>50 students),3.89,85.6,5.3,1.6,0.5,0,4.3,Deunhorng Chau
+CSE 6242,Q,Fall 2016,Very Small (<10 students),3.33,71.4,0,0,0,14.3,14.3,Deunhorng Chau
+CSE 6242,A,Fall 2017,Very Large (>50 students),3.89,91.4,2.6,1.3,1.3,0.4,3,Deunhorng Chau
+CSE 6242,Q,Fall 2017,Very Small (<10 students),4,83.3,0,0,0,0,16.7,Deunhorng Chau
+CSE 6242,A,Fall 2018,Very Large (>50 students),3.95,92.3,2.4,1.4,0,0,3.8,Deunhorng Chau
+CSE 6242,O01,Fall 2018,Very Large (>50 students),3.89,77.8,4.4,0.3,1,0.3,16.3,Deunhorng Chau
+CSE 6242,O3,Fall 2018,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Fall 2018,Very Large (>50 students),3.82,76.8,8.4,2.1,0,0.7,12,Deunhorng Chau
+CSE 6242,Q,Fall 2018,Very Small (<10 students),4,75,0,0,0,0,25,Deunhorng Chau
+CSE 6242,A,Fall 2019,Very Large (>50 students),3.96,91.9,2.3,0,0.4,0,5.4,Deunhorng Chau
+CSE 6242,O01,Fall 2019,Very Large (>50 students),3.9,74.7,3.1,0.8,0.5,0.5,20.4,Deunhorng Chau
+CSE 6242,O3,Fall 2019,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Fall 2019,Very Large (>50 students),3.84,70.2,7.6,0.8,0.8,0.3,20.2,Deunhorng Chau
+CSE 6242,Q,Fall 2019,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Fall 2020,Very Large (>50 students),3.93,86.2,3.7,0,0.9,0,9.2,Deunhorng Chau
+CSE 6242,A,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,O01,Fall 2020,Very Large (>50 students),3.95,83.8,2.9,0.4,0,0.2,12.7,Deunhorng Chau
+CSE 6242,O3,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Fall 2020,Very Large (>50 students),3.83,77.5,7.2,0.3,0.7,1.2,13.1,Deunhorng Chau
+CSE 6242,Q,Fall 2020,Very Small (<10 students),4,50,0,0,0,0,50,Deunhorng Chau
+CSE 6242,R,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2013,Large (31-49 students),3.87,90.9,0,0,0,3,3,Deunhorng Chau
+CSE 6242,A,Spring 2014,Very Large (>50 students),4,91.2,0,0,0,0,5.9,Deunhorng Chau
+CSE 6242,Q3,Spring 2014,Small (10-20 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2015,Very Large (>50 students),3.82,80.5,12.6,2.3,0,0,1.2,Deunhorng Chau
+CSE 6242,Q,Spring 2015,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,Q3,Spring 2015,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2016,Very Large (>50 students),3.87,83.9,10.3,0,0.6,0,5.2,Deunhorng Chau
+CSE 6242,Q,Spring 2016,Very Small (<10 students),3.71,85.7,0,14.3,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2017,Very Large (>50 students),3.96,90.7,0.6,0.6,0.6,0,4.4,Deunhorng Chau
+CSE 6242,Q,Spring 2017,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2018,Very Large (>50 students),3.82,80.8,7.7,3.2,0,0.6,7.7,Deunhorng Chau
+CSE 6242,OAN,Spring 2018,Very Large (>50 students),3.91,81,4,2,0,0,13,Deunhorng Chau
+CSE 6242,Q,Spring 2018,Very Small (<10 students),3.78,88.9,0,11.1,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2019,Very Large (>50 students),3.92,90.3,2,1.3,0,0.6,5.8,Deunhorng Chau
+CSE 6242,O01,Spring 2019,Very Large (>50 students),3.81,78.1,3.9,2.6,0.8,1.3,13.4,Deunhorng Chau
+CSE 6242,OAN,Spring 2019,Very Large (>50 students),3.87,85.5,3.6,1.3,0.3,1.3,8.1,Deunhorng Chau
+CSE 6242,Q,Spring 2019,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2020,Very Large (>50 students),3.93,85.8,4.7,0.7,0,0,8.1,Deunhorng Chau
+CSE 6242,A,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,O01,Spring 2020,Very Large (>50 students),3.93,79.2,2.6,1.6,0,0,16.6,Deunhorng Chau
+CSE 6242,O3,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Spring 2020,Very Large (>50 students),3.91,79.8,5.4,0.9,0.2,0,13.7,Deunhorng Chau
+CSE 6242,Q,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,QSZ,Spring 2020,Very Small (<10 students),4,88.9,0,0,0,0,11.1,Deunhorng Chau
+CSE 6242,A,Spring 2021,Very Large (>50 students),3.92,86.3,3.8,0.8,0.8,0,7.6,Deunhorng Chau
+CSE 6242,A,Spring 2021,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,O01,Spring 2021,Very Large (>50 students),3.81,76.8,3.8,1.2,0.6,2,15.4,Deunhorng Chau
+CSE 6242,O3,Spring 2021,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Spring 2021,Very Large (>50 students),3.82,80.5,8,1.5,0.4,1,8.6,Deunhorng Chau
+CSE 6242,Q,Spring 2021,Very Small (<10 students),3.5,50,50,0,0,0,0,Deunhorng Chau
+CSE 6242,R,Spring 2021,Very Small (<10 students),3,50,0,50,0,0,0,Deunhorng Chau
+ISYE 6420,O01,Fall 2019,Very Large (>50 students),3.95,79.8,4,0,0,0,15.2,Roshan Joseph
+ISYE 6420,OAN,Fall 2019,Very Large (>50 students),3.81,66.8,8.4,0,0,1.6,22.1,Roshan Joseph
+ISYE 6420,A,Fall 2020,Small (10-20 students),3.92,80,6.7,0,0,0,0,Roshan Joseph
+ISYE 6420,O01,Fall 2020,Very Large (>50 students),3.88,77.9,5.5,1.1,0.4,0.4,14.8,Roshan Joseph
+ISYE 6420,OAN,Fall 2020,Very Large (>50 students),3.83,73.7,9.2,0.9,0.4,0.4,15.4,Roshan Joseph
+ISYE 6420,QS,Fall 2020,Very Small (<10 students),3,0,100,0,0,0,0,Roshan Joseph
+ISYE 6420,A,Spring 2011,Large (31-49 students),3.2,31.2,12.5,18.8,0,0,12.5,Roshan Joseph
+ISYE 6420,A,Spring 2012,Large (31-49 students),3.19,25.8,29,12.9,0,0,12.9,Roshan Joseph
+ISYE 6420,A,Spring 2017,Large (31-49 students),3.46,41.2,20.6,8.8,0,0,8.8,Roshan Joseph
+ISYE 6420,A,Spring 2019,Large (31-49 students),3.46,46.9,25,9.4,0,0,18.8,Roshan Joseph
+ISYE 6420,MSA,Spring 2019,Mid-Size (21-30 students),3.58,58.3,41.7,0,0,0,0,Roshan Joseph
+ISYE 6420,OAN,Spring 2019,Very Large (>50 students),3.74,67.3,11.5,1.9,1.9,0,17.3,Roshan Joseph
+ISYE 6420,A,Spring 2020,Large (31-49 students),3.71,45.4,18.2,0,0,0,18.2,Roshan Joseph
+ISYE 6420,A,Spring 2020,Very Small (<10 students),3,0,100,0,0,0,0,Roshan Joseph
+ISYE 6420,MSA,Spring 2020,Small (10-20 students),3.9,81.8,9.1,0,0,0,9.1,Roshan Joseph
+ISYE 6420,O01,Spring 2020,Very Large (>50 students),3.98,80.5,1,0.5,0,0,18,Roshan Joseph
+ISYE 6420,OAN,Spring 2020,Very Large (>50 students),3.93,84.2,2,0,0,1,12.9,Roshan Joseph
+ISYE 6420,O01,Spring 2021,Very Large (>50 students),3.59,52.8,18.6,4.2,0,1,23.3,Roshan Joseph
+ISYE 6420,OAN,Spring 2021,Very Large (>50 students),3.55,52.4,24.6,5.8,0.5,0,16.8,Roshan Joseph
+ISYE 6501,MSA,Fall 2017,Very Large (>50 students),3.64,61.1,34.7,0,0,0,4.2,Joel Sokol
+ISYE 6501,OAN,Fall 2017,Very Large (>50 students),3.46,46.7,40.9,2.9,0,0.7,8.8,Joel Sokol
+ISYE 6501,MSA,Fall 2018,Very Large (>50 students),3.71,68.7,27.7,0,0,0,1.2,Joel Sokol
+ISYE 6501,OAN,Fall 2018,Very Large (>50 students),3.27,41.2,40.9,2.8,0.2,4.6,10.4,Joel Sokol
+ISYE 6501,MSA,Fall 2019,Very Large (>50 students),3.72,70.3,25.3,1.1,0,0,3.3,Joel Sokol
+ISYE 6501,OAN,Fall 2019,Very Large (>50 students),3.27,37,41.1,5,0.4,2.7,12.8,Joel Sokol
+ISYE 6501,MSA,Fall 2020,Very Large (>50 students),3.56,52.5,36.1,1.6,0,0,0,Joel Sokol
+ISYE 6501,MSA,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Joel Sokol
+ISYE 6501,O01,Fall 2020,Very Large (>50 students),3.47,41.6,38.2,1.7,0.6,0,17.9,Joel Sokol
+ISYE 6501,OAN,Fall 2020,Very Large (>50 students),3.26,39.2,38.3,6,1.1,2.7,12.2,Joel Sokol
+ISYE 6501,QS,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Joel Sokol
+ISYE 6501,OAN,Spring 2018,Very Large (>50 students),3.39,48.8,38.9,1.3,0,3.6,7.3,Joel Sokol
+ISYE 6501,OAN,Spring 2019,Very Large (>50 students),3.32,43,39.4,2.9,0.2,3.6,11,Joel Sokol
+ISYE 6501,O01,Spring 2020,Very Large (>50 students),3.46,44.7,41.4,2.5,0,0.4,10.7,Joel Sokol
+ISYE 6501,OAN,Spring 2020,Very Large (>50 students),3.33,36.7,39.8,3,0.2,2.2,17.6,Joel Sokol
+ISYE 6501,Q,Spring 2020,Very Small (<10 students),3,0,100,0,0,0,0,Joel Sokol
+ISYE 6501,MSA,Spring 2021,Small (10-20 students),3.86,92.9,0,7.1,0,0,0,Joel Sokol
+ISYE 6501,O01,Spring 2021,Very Large (>50 students),3.43,52.2,32.5,0.6,0.6,3.8,10.2,Joel Sokol
+ISYE 6501,OAN,Spring 2021,Very Large (>50 students),3.37,43.6,35.2,3.5,0.2,2.6,13.6,Joel Sokol
+ISYE 6501,OAN,Summer 2018,Very Large (>50 students),3.55,53.2,39.2,1.3,0,0,6.3,Joel Sokol
+ISYE 6501,OAN,Summer 2019,Very Large (>50 students),3.42,43.5,40.9,2.6,0,1.3,11.7,Joel Sokol
+ISYE 6501,O01,Summer 2020,Very Large (>50 students),3.42,45,45,2.2,0,1.1,6.6,Joel Sokol
+ISYE 6501,OAN,Summer 2020,Very Large (>50 students),3.33,43,37.3,4.1,0.8,2.9,11.5,Joel Sokol
+CSE 6242,A,Fall 2014,Very Large (>50 students),3.94,91,2,2,0,0,5,Deunhorng Chau
+CSE 6242,Q,Fall 2014,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,Q3,Fall 2014,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Fall 2015,Very Large (>50 students),3.8,77.5,5,2.5,2.5,0,10.8,Deunhorng Chau
+CSE 6242,Q,Fall 2015,Very Small (<10 students),3.8,57.1,14.3,0,0,0,28.6,Deunhorng Chau
+CSE 6242,Q3,Fall 2015,Very Small (<10 students),4,66.7,0,0,0,0,33.3,Deunhorng Chau
+CSE 6242,A,Fall 2016,Very Large (>50 students),3.89,85.6,5.3,1.6,0.5,0,4.3,Deunhorng Chau
+CSE 6242,Q,Fall 2016,Very Small (<10 students),3.33,71.4,0,0,0,14.3,14.3,Deunhorng Chau
+CSE 6242,A,Fall 2017,Very Large (>50 students),3.89,91.4,2.6,1.3,1.3,0.4,3,Deunhorng Chau
+CSE 6242,Q,Fall 2017,Very Small (<10 students),4,83.3,0,0,0,0,16.7,Deunhorng Chau
+CSE 6242,A,Fall 2018,Very Large (>50 students),3.95,92.3,2.4,1.4,0,0,3.8,Deunhorng Chau
+CSE 6242,O01,Fall 2018,Very Large (>50 students),3.89,77.8,4.4,0.3,1,0.3,16.3,Deunhorng Chau
+CSE 6242,O3,Fall 2018,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Fall 2018,Very Large (>50 students),3.82,76.8,8.4,2.1,0,0.7,12,Deunhorng Chau
+CSE 6242,Q,Fall 2018,Very Small (<10 students),4,75,0,0,0,0,25,Deunhorng Chau
+CSE 6242,A,Fall 2019,Very Large (>50 students),3.96,91.9,2.3,0,0.4,0,5.4,Deunhorng Chau
+CSE 6242,O01,Fall 2019,Very Large (>50 students),3.9,74.7,3.1,0.8,0.5,0.5,20.4,Deunhorng Chau
+CSE 6242,O3,Fall 2019,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Fall 2019,Very Large (>50 students),3.84,70.2,7.6,0.8,0.8,0.3,20.2,Deunhorng Chau
+CSE 6242,Q,Fall 2019,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Fall 2020,Very Large (>50 students),3.93,86.2,3.7,0,0.9,0,9.2,Deunhorng Chau
+CSE 6242,A,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,O01,Fall 2020,Very Large (>50 students),3.95,83.8,2.9,0.4,0,0.2,12.7,Deunhorng Chau
+CSE 6242,O3,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Fall 2020,Very Large (>50 students),3.83,77.5,7.2,0.3,0.7,1.2,13.1,Deunhorng Chau
+CSE 6242,Q,Fall 2020,Very Small (<10 students),4,50,0,0,0,0,50,Deunhorng Chau
+CSE 6242,R,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2013,Large (31-49 students),3.87,90.9,0,0,0,3,3,Deunhorng Chau
+CSE 6242,A,Spring 2014,Very Large (>50 students),4,91.2,0,0,0,0,5.9,Deunhorng Chau
+CSE 6242,Q3,Spring 2014,Small (10-20 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2015,Very Large (>50 students),3.82,80.5,12.6,2.3,0,0,1.2,Deunhorng Chau
+CSE 6242,Q,Spring 2015,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,Q3,Spring 2015,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2016,Very Large (>50 students),3.87,83.9,10.3,0,0.6,0,5.2,Deunhorng Chau
+CSE 6242,Q,Spring 2016,Very Small (<10 students),3.71,85.7,0,14.3,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2017,Very Large (>50 students),3.96,90.7,0.6,0.6,0.6,0,4.4,Deunhorng Chau
+CSE 6242,Q,Spring 2017,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2018,Very Large (>50 students),3.82,80.8,7.7,3.2,0,0.6,7.7,Deunhorng Chau
+CSE 6242,OAN,Spring 2018,Very Large (>50 students),3.91,81,4,2,0,0,13,Deunhorng Chau
+CSE 6242,Q,Spring 2018,Very Small (<10 students),3.78,88.9,0,11.1,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2019,Very Large (>50 students),3.92,90.3,2,1.3,0,0.6,5.8,Deunhorng Chau
+CSE 6242,O01,Spring 2019,Very Large (>50 students),3.81,78.1,3.9,2.6,0.8,1.3,13.4,Deunhorng Chau
+CSE 6242,OAN,Spring 2019,Very Large (>50 students),3.87,85.5,3.6,1.3,0.3,1.3,8.1,Deunhorng Chau
+CSE 6242,Q,Spring 2019,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,A,Spring 2020,Very Large (>50 students),3.93,85.8,4.7,0.7,0,0,8.1,Deunhorng Chau
+CSE 6242,A,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,O01,Spring 2020,Very Large (>50 students),3.93,79.2,2.6,1.6,0,0,16.6,Deunhorng Chau
+CSE 6242,O3,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Spring 2020,Very Large (>50 students),3.91,79.8,5.4,0.9,0.2,0,13.7,Deunhorng Chau
+CSE 6242,Q,Spring 2020,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,QSZ,Spring 2020,Very Small (<10 students),4,88.9,0,0,0,0,11.1,Deunhorng Chau
+CSE 6242,A,Spring 2021,Very Large (>50 students),3.92,86.3,3.8,0.8,0.8,0,7.6,Deunhorng Chau
+CSE 6242,A,Spring 2021,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,O01,Spring 2021,Very Large (>50 students),3.81,76.8,3.8,1.2,0.6,2,15.4,Deunhorng Chau
+CSE 6242,O3,Spring 2021,Very Small (<10 students),4,100,0,0,0,0,0,Deunhorng Chau
+CSE 6242,OAN,Spring 2021,Very Large (>50 students),3.82,80.5,8,1.5,0.4,1,8.6,Deunhorng Chau
+CSE 6242,Q,Spring 2021,Very Small (<10 students),3.5,50,50,0,0,0,0,Deunhorng Chau
+CSE 6242,R,Spring 2021,Very Small (<10 students),3,50,0,50,0,0,0,Deunhorng Chau
+ISYE 6402,OAN,Fall 2018,Very Large (>50 students),3.19,35.6,30.5,8.5,3.4,1.7,20.3,Nicoleta Serban
+ISYE 6402,O01,Fall 2019,Very Large (>50 students),3.34,31.2,37.5,3.8,1.2,0,25,Nicoleta Serban
+ISYE 6402,OAN,Fall 2019,Very Large (>50 students),3.24,30.9,39.7,7.4,0,1.5,20.6,Nicoleta Serban
+ISYE 6402,A,Fall 2020,Small (10-20 students),3.67,60,30,0,0,0,10,Nicoleta Serban
+ISYE 6402,O01,Fall 2020,Mid-size (21-30 students),2.76,29.6,11.1,7.4,7.4,7.4,37,Nicoleta Serban
+ISYE 6402,OAN,Fall 2020,Very Large (>50 students),3.33,37,32.6,8.7,0,0.7,20.3,Nicoleta Serban
+ISYE 6402,QS,Fall 2020,Very Small (<10 students),2,0,0,100,0,0,0,Nicoleta Serban
+ISYE 6402,A,Spring 2011,Large (31-49 students),3.42,33.3,28.2,5.1,0,0,12.8,Nicoleta Serban
+ISYE 6402,A,Spring 2018,Large (31-49 students),3.46,39.4,45.4,0,0,0,0,Nicoleta Serban
+ISYE 6402,MSA,Spring 2018,Mid-Size (21-30 students),3.64,63,25.9,3.7,0,0,3.7,Nicoleta Serban
+ISYE 6402,OAN,Spring 2018,Mid-Size (21-30 students),3.6,46.2,30.8,0,0,0,23.1,Nicoleta Serban
+ISYE 6402,OAN,Spring 2019,Very Large (>50 students),3.28,40,31.8,9.4,0,2.4,16.5,Nicoleta Serban
+ISYE 6402,O01,Spring 2020,Large (31-49 students),3.73,50,11.8,2.9,0,0,35.3,Nicoleta Serban
+ISYE 6402,OAN,Spring 2020,Very Large (>50 students),3.29,44.9,29.5,7.7,3.8,1.3,12.8,Nicoleta Serban
+ISYE 6402,O01,Spring 2021,Small (10-20 students),3.2,29.4,23.5,0,0,5.9,41.2,Nicoleta Serban
+ISYE 6402,OAN,Spring 2021,Very Large (>50 students),3.15,35.6,34.2,6,5.4,2,16.8,Nicoleta Serban
+CS 7643,O01,Fall 2020,Very Large (>50 students),3.77,69.8,9.4,4,0.7,0,14.1,Zsolt Kira
+CS 7643,R,Fall 2020,Very Small (<10 students),4,100,0,0,0,0,0,Zsolt Kira
+CS 7643,A,Spring 2019,Very Large (>50 students),3.73,75.6,15.4,2.6,0,1.3,5.1,Zsolt Kira
+CS 7643,A,Spring 2020,Very Large (>50 students),3.81,73.6,13,1,0.5,0,10.4,Zsolt Kira
+CS 7643,A,Spring 2020,Small (10-20 students),3.82,83.3,0,8.3,0,0,8.3,Zsolt Kira
+CS 7643,A,Spring 2021,Very Large (>50 students),3.83,84.5,7.8,0.9,0,1.7,5.2,Zsolt Kira
+CS 7643,A,Spring 2021,Small (10-20 students),3.83,71.4,14.3,0,0,0,14.3,Zsolt Kira
+CS 7643,O01,Spring 2021,Very Large (>50 students),3.68,61.5,20.1,2.4,0.2,0.4,14.7,Zsolt Kira
+CS 7643,OAN,Spring 2021,Large (31-49 students),3.79,71.4,14.3,2,0,0,10.2,Zsolt Kira
+CS 7643,R,Spring 2021,Very Small (<10 students),3.5,62.5,25,12.5,0,0,0,Zsolt Kira
+CS 7637,A,Fall 2011,Small (10-20 students),3.58,75,10,5,0,5,0,Ashok Goel
+CS 7637,A,Fall 2012,Small (10-20 students),3.79,76.5,0,0,5.9,0,17.6,Ashok Goel
+CS 7637,A,Fall 2013,Small (10-20 students),3.75,68.4,10.5,5.3,0,0,10.5,Ashok Goel
+CS 7637,A,Fall 2014,Large (31-49 students),4,91.2,0,0,0,0,5.9,Ashok Goel
+CS 7637,O01,Fall 2014,Very Large (>50 students),3.74,70.4,12.8,2,0,1.5,13.3,Ashok Goel
+CS 7637,A,Fall 2015,Large (31-49 students),3.9,90.7,0,4.6,0,0,4.6,Ashok Goel
+CS 7637,O01,Fall 2015,Very Large (>50 students),3.64,62.5,9.5,3.9,1.3,1.7,21.1,Ashok Goel
+CS 7637,A,Fall 2016,Large (31-49 students),3.88,77.8,11.1,0,0,0,11.1,Ashok Goel
+CS 7637,O01,Fall 2016,Very Large (>50 students),3.53,59,13.8,2,1.2,4,20.1,Ashok Goel
+CS 7637,A,Fall 2017,Large (31-49 students),3.78,71,12.9,3.2,0,0,12.9,Ashok Goel
+CS 7637,O01,Fall 2017,Very Large (>50 students),3.6,55.1,15.1,3.3,0.6,1.8,24.1,Ashok Goel
+CS 7637,A,Fall 2018,Large (31-49 students),3.83,79.2,16.7,0,0,0,2.1,Ashok Goel
+CS 7637,O1,Fall 2018,Small (10-20 students),3.73,61.5,23.1,0,0,0,15.4,Ashok Goel
+CS 7637,A,Fall 2019,Mid-Size (21-30 students),3.96,81.5,3.7,0,0,0,11.1,Ashok Goel
+CS 7637,O1,Fall 2019,Very Small (<10 students),3.5,20,20,0,0,0,60,Ashok Goel
+CS 7637,O01,Spring 2015,Very Large (>50 students),3.67,61.8,12.4,3.4,0.8,1.1,20.6,Ashok Goel
+CS 7637,O01,Spring 2016,Very Large (>50 students),3.51,56.3,13.9,4.3,1,3.3,21.2,Ashok Goel
+CS 7637,O01,Spring 2017,Very Large (>50 students),3.54,54.8,11.7,1,0.5,4.6,27.4,Ashok Goel
+CS 7637,O01,Spring 2018,Very Large (>50 students),3.64,59.2,10.4,3,1.2,1.8,24.6,Ashok Goel
+CS 7643,A,Fall 2017,Very Large (>50 students),3.81,78.3,18.3,0,0,0,3.3,Dhruv Batra
+CS 7643,A,Fall 2018,Very Large (>50 students),3.84,83.7,10.5,2.3,0,0,3.5,Dhruv Batra
+CS 7643,A,Fall 2019,Very Large (>50 students),3.87,86.3,3,1.2,0.6,1.2,7.7,Dhruv Batra
+CS 7643,A,Fall 2020,Very Large (>50 students),3.89,84.8,5.9,0.8,0.8,0,7.6,Dhruv Batra
+CS 7280,A,Fall 2016,Mid-Size (21-30 students),3.96,81.5,3.7,0,0,0,11.1,Konstantinos Dovrolis
+CS 7280,A,Fall 2017,Large (31-49 students),3.75,65.6,21.9,0,0,0,9.4,Konstantinos Dovrolis
+CS 7280,A,Fall 2019,Large (31-49 students),3.98,87.5,2.1,0,0,0,2.1,Konstantinos Dovrolis
+CS 7280,A,Fall 2020,Very Large (>50 students),3.98,86.3,2,0,0,0,9.8,Konstantinos Dovrolis
+CS 7280,O01,Spring 2021,Very Large (>50 students),3.68,62.5,14.2,1.7,1.7,0.8,19.2,Konstantinos Dovrolis
+CS 6210,A,Fall 2019,Very Large (>50 students),3.58,46,23.8,0,0,1.6,19,Ada Gavrilovska

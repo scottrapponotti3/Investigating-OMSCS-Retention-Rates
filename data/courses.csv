@@ -1,0 +1,50 @@
+ID,Name,Revie...,Difficulty (1-5),Workload (hrs/wk),Rating (1-5)
+CS-6250,Computer Networks f,391,2.43,8.35,3.61
+CS-6035,Introduction to Information Security f,385,2.54,10.48,3.47
+CS-7646,Machine Learning for Trading f,321,2.48,10.68,4.11
+CS-7641,Machine Learning f,320,4.13,21.16,3.31
+CS-6200,Introduction to Operating Systems f,292,3.67,17.88,4.42
+CS-6300,Software Development Process f,289,2.31,9.05,3.64
+CS-7637,Knowledge-Based Artificial Intelligence: Cognitive Systems f,253,3.1,13.28,3.62
+CS-7638,Artificial Intelligence for Robotics f,252,2.98,12.41,3.94
+CS-6515,Introduction to Graduate Algorithms f,251,4.22,19.55,3.87
+CSE-6242,Data & Visual Analytics f,235,3.24,15.53,3
+CS-6601,Artificial Intelligence f,209,4.11,22.95,4.2
+CS-6400,Database Systems Concepts & Design f,192,2.76,10.68,2.69
+CS-6750,Human-Computer Interaction f,184,2.56,11.95,4.13
+CS-6310,Software Architecture & Design f,178,2.6,11.18,3.22
+CS-6475,Computational Photography f,178,3.2,16.47,3.61
+CS-7642,Reinforcement Learning f,177,4.11,21.98,3.9
+CS-6476,Computer Vision f,165,3.95,20.16,4.14
+ISYE-6501,Introduction to Analytics Modeling ,135,2.87,10.03,4.24
+CS-6340,Software Analysis f,130,3.28,12.95,3.39
+CS-6262,Network Security f,118,3.07,13.07,3.13
+CS-6210,Advanced Operating Systems f,107,4.17,16.53,4.17
+CS-6440,Introduction to Health Informatics f,103,2.25,10.04,2.56
+CS-6290,High Performance Computer Architecture f,101,3.68,14.38,3.84
+CSE-6040,Computing for Data Analytics ,93,3.22,9.69,4.43
+CS-6460,Educational Technology f,91,2.85,14.3,3.99
+MGT-6203,Data Analytics & Business ,89,1.91,4.53,2.24
+CS-6263,Introduction to Cyber Physical Systems Security f,75,2.6,10.32,3.4
+ISYE-6414,Regression Analysis ,71,2.97,9.01,3.34
+MGT-8803,Business Fundamentals for Analytics f,71,2.92,7.49,2.39
+ISYE-6644,Simulation ,67,3.24,9.69,4.42
+CSE-6250,Big Data for Health Informatics f,63,4.41,29.54,3.81
+CSE-6220,High Performance Computing f,62,4.47,19.27,4.45
+ISYE-6420,Bayesian Statistics f,46,3.15,11.8,2.72
+CS-7643,Deep Learning f,35,3.91,17.91,4.51
+CS-6291,Embedded Systems Optimization f,33,3.61,15.94,3.55
+CS-6260,Applied Cryptography ,29,3.59,13.17,3.66
+ISYE-6669,Deterministic Optimization ,29,3.79,10.45,4.03
+ISYE-8803,High-Dimensional Data Analytics ,29,4.31,18.86,4.21
+CS-7210,Distributed Computing f,28,4.61,64.71,2.82
+CS-7639,Cyber Physical Design & Analysis f,28,3.21,12.46,3.04
+ISYE-6402,Time Series Analysis ,25,4.24,12.64,1.84
+ISYE-6740,Computational Data Analytics ,25,3.68,14,4
+CS-6603,"AI, Ethics & Society f",21,1.81,6.67,3.14
+CS-6238,Secure Computer Systems ,20,3.3,13.7,2.6
+MGT-6311,Digital Marketing ,16,1.38,3.63,4.25
+PUBP-6725,Information Security Policies ,15,1.93,6.27,3.4
+MGT-8813,Financial Modeling ,14,1.29,4.64,3
+CS-6265,Information Security Lab: Binary Exploitation ,13,4.54,33.54,4.38
+CS-7280,Network Science f,13,2.85,12.38,3.15
